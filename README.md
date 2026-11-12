@@ -1,5 +1,8 @@
+
 # App-Dev
- My first repository
+My first repository.
+
+---
 
 # My Favorite Anime: Demon Slayer
 
@@ -9,14 +12,17 @@ My favorite anime is **Demon Slayer: Kimetsu no Yaiba**. It is an action and fan
 
 ## Why I Like It
 
-I like this anime because it has beautiful animation, exciting battles, interesting characters, and an amazing storyline. It also shows the importance of family, courage, and friendship.
+I like this anime because it has beautiful animation, exciting battles, interesting characters, and an amazing storyline. It also shows the importance of **family, courage, and friendship**.
 
-## My Favorite Characters
+*It is one of the best anime I have ever watched!*
 
-- Shinobu Kocho
-- Mitsuri Kanroji
-- Giyuu Tomioka
-- Muichiro Tokito
+## My Favorite Character
+| Character | Breathing Style |
+|---|---|
+| Shinobu Kocho | Insect Breathing |
+| Mitsuri Kanroji | Love Breathing |
+| Giyuu Tomioka | Water Breathing |
+| Muichiro Tokito | Mist Breathing | 
 
 ## My Favorite Things About the Anime
 
